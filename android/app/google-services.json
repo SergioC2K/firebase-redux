@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "425966916858",
+    "firebase_url": "https://app-movil-5087a.firebaseio.com",
+    "project_id": "app-movil-5087a",
+    "storage_bucket": "app-movil-5087a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425966916858:android:0617933a7aefd906cc6543",
+        "android_client_info": {
+          "package_name": "com.firebaseredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425966916858-6696ers4flnc3vbl2elbmmtippuv91ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4e2JXm-G8xAmFmdB7QHfFLG87p9E9NPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425966916858-6696ers4flnc3vbl2elbmmtippuv91ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
